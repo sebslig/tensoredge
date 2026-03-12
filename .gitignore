@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+bin/
+dist/
+*.so
+*.egg-info
+__pycache__/
+.pytest_cache/
+
+# Data and models
+*.pt
+*.tedge
+*.tflite
+
+# Environment
+.venv/
+env/
+.env
